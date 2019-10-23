@@ -1,13 +1,13 @@
 body{
   background-image: url("background.jpg");
   font-family: algerian,Arial;
-  color: silver;
+  color: white;
   text-align: center;
 }
 h1{
   font-size: 50px;
-  margin-bottom: 40px;
-  height: 40px;
+  margin-bottom: 30px;
+  height: 30px;
   tex-align: center;
 }
 table{
@@ -19,11 +19,11 @@ th{
   padding: 8px;
   text-align: center;
   font-size: 20px;
-  height: 35px;
-  border-bottom: 1px solid silver;
+  height: 30px;
+  border-bottom: 1px solid white;
 }
 .saw{
-  border-right: 1px solid silver;
+  border-right: 1px solid white;
   width: 210px;
   font-size: 120%;
 }
@@ -32,7 +32,7 @@ img{
   height: 185px;
 }
 a{
-  color: silver;
+  color: white;
 }
 footer{
   clear: both;

@@ -16,6 +16,7 @@ table{
   border: 1px solid black;
 }
 th{
+  font-family: Arial;
   padding: 8px;
   text-align: center;
   font-size: 20px;
@@ -26,6 +27,7 @@ th{
   border-right: 1px solid white;
   width: 210px;
   font-size: 120%;
+  font-family: Arial;
 }
 img{
   width: 265px;
